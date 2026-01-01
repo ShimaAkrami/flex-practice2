@@ -1,0 +1,14 @@
+@import url("./font.css");
+@import url("./reset.css");
+html {
+  direction: rtl;
+}
+
+body {
+  background-color: #fff;
+  font-size: 14px;
+  font-family: vazir;
+  color: #616161;
+}
+
+

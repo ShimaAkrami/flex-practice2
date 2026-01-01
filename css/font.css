@@ -1,0 +1,21 @@
+@font-face {
+    font-family: vazir;
+    src: url("./../fonts/Vazir-Bold.woff") format("truetype"),
+     url("./../fonts/Vazir-Bold.woff2") format("woff2"),
+      url("./../fonts/Vazir-Light.eot") format("eot"),
+       url("./../fonts/Vazir-Light.ttf") format("ttf")
+    ;
+}
+@font-face {
+    font-family: yekan;
+    src: url("./../fonts/BYekan+.ttf") format("BYekan+.ttf");
+}
+
+@font-face {
+    font-family: iranyekan;
+    src: url("./../fonts/Qs_Iranyekan.ttf") format("Qs_Iranyekan.ttf");
+}
+@font-face{
+    font-family: iranYekan2;
+    src: url("./../fonts/fonnts.com-Qs_Iranyekan2.ttf") format('Qs_Iranyekan2.ttf');
+}

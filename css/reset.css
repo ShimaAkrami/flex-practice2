@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+text-decoration: none;
+a {color:white;}         /* Unvisited link  */
+a:visited {color:white;} /* Visited link    */
+a:hover {color:white;}   /* Mouse over link */
+a:active {color:white;}  /* Selected link   */
+a:link { color: #fff;}
+}
+ul{
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+}
